@@ -1,0 +1,14 @@
+﻿'ппв.exe' (Win32): Loaded 'C:\Users\LENOVO\source\repos\ппв\Debug\ппв.exe'. Symbols loaded.
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x67c has exited with code 0 (0x0).
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ппв.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x3014 has exited with code 0 (0x0).
+The thread 0x498c has exited with code 0 (0x0).
+The program '[14084] ппв.exe' has exited with code 0 (0x0).
